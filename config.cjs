@@ -21,5 +21,5 @@ module.exports = {
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
-  "AUTO_NEWS": true
+  "AUTO_NEWS": false
 };
